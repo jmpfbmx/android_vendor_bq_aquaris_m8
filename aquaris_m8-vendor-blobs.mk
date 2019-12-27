@@ -257,7 +257,7 @@ PRODUCT_COPY_FILES += \
  vendor/bq/aquaris_m8/proprietary/lib/libGdmaScalerPipe.so:system/lib/libGdmaScalerPipe.so \
  vendor/bq/aquaris_m8/proprietary/lib/libJpgDecPipe.so:system/lib/libJpgDecPipe.so \
  vendor/bq/aquaris_m8/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
- vendor/bq/aquaris_m8/proprietary/llib/libimsma_rtp.so:system/llib/libimsma_rtp.so \
+ vendor/bq/aquaris_m8/proprietary/lib/libimsma_rtp.so:system/lib/libimsma_rtp.so \
  vendor/bq/aquaris_m8/proprietary/lib/libimsma.so:system/lib/libimsma.so \
  vendor/bq/aquaris_m8/proprietary/lib/libmal.so:system/lib/libmal.so \
  vendor/bq/aquaris_m8/proprietary/lib/libmal_datamngr.so:system/lib/libmal_datamngr.so \
