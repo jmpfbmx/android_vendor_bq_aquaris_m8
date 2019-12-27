@@ -378,7 +378,6 @@ PRODUCT_COPY_FILES += \
  vendor/bq/aquaris_m8/proprietary/lib64/libbluetooth_relayer.so:system/lib64/libbluetooth_relayer.so \
  vendor/bq/aquaris_m8/proprietary/lib64/libbluetoothem_mtk.so:system/lib64/libbluetoothem_mtk.so \
  vendor/bq/aquaris_m8/proprietary/lib64/libbwc.so:system/lib64/libbwc.so \
- vendor/bq/aquaris_m8/proprietary/lib64/libcameraservice:system/lib64/libcameraservice \
  vendor/bq/aquaris_m8/proprietary/lib64/libcamera_client.so:system/lib64/libcamera_client.so \
  vendor/bq/aquaris_m8/proprietary/lib64/libcam.iopipe_FrmB.so:system/lib64/libcam.iopipe_FrmB.so \
  vendor/bq/aquaris_m8/proprietary/lib64/libcam.campipe.so:system/lib64/libcam.campipe.so \
